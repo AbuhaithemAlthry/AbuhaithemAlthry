@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 # Seid Muhammed
-I'm Seid from Ethiopia, and I’m currently learning at ALX cohort 8 and enrolled at Microverse for january 9, 2023. I really enjoy learning languages and frameworks like React and React Native. I also enjoy in application development with flutter & dart.
+I'm Seid from Ethiopia. I really enjoy learning languages and frameworks like React and React Native. I also enjoy in application development with flutter & dart.
 
 <!--
 **AbuhaithemAlthry/AbuhaithemAlthry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
