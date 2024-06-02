@@ -5,7 +5,7 @@
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeabsra-ashebir-tech-nerd-8a3a80267/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:abuhaithemalthry@gmail.com)
-![](https://komarev.com/ghpvc/?username=yeabnoah&color=brightgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=AbuhaithemAlthry&color=brightgreen&style=for-the-badge)
 [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/AbuHaithem)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Abu_Haithem_)
 </div>
