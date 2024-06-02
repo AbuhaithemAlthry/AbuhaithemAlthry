@@ -1,5 +1,5 @@
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AbuhaithemAlhtry&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/AbuhaithemAlthry)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AbuhaithemAlthry&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/AbuhaithemAlthry)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 <div align="left" width="100%" height="100%">
  
@@ -18,8 +18,8 @@
    <tr>
      <td> 
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=yeabnoah&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeabnoah&theme=radical&layout=compact)](https://github.com/yeabnoah) </td>
+![Github stats](https://github-readme-stats.vercel.app/api?username=abuhaithemAlthry&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhaithemAlthry&theme=radical&layout=compact)](https://github.com/yeabnoah) </td>
    </tr>
   </table>
   
