@@ -8,6 +8,8 @@
 ![](https://komarev.com/ghpvc/?username=AbuhaithemAlthry&color=brightgreen&style=for-the-badge)
 [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/AbuHaithem)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Abu_Haithem_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](http://seid-muhammed.vercel.app)
+
 </div>
 
 
