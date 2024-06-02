@@ -2,13 +2,14 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AbuhaithemAlthry&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/AbuhaithemAlthry)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 <div align="left" width="100%" height="100%">
- 
+
+ [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](http://seid-muhammed.vercel.app)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seid-muhammed/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:abuhaithemalthry@gmail.com)
 ![](https://komarev.com/ghpvc/?username=AbuhaithemAlthry&color=brightgreen&style=for-the-badge)
 [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/AbuHaithem)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Abu_Haithem_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](http://seid-muhammed.vercel.app)
 
 </div>
 
